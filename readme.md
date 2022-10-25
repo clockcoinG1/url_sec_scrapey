@@ -4,13 +4,13 @@
 ## Activate pyenv
 
 ```
-$ pyenv activate 3.6.5
+$ virtualenv --python=${which python3.10} .
 ```
 
 ## Install lxml
 
 ```
-$ pip install lxml
+$ pip install lxml bs4 requests 
 ```
 
 ## Activate env
