@@ -7,12 +7,10 @@ import socket
 import sys
 import time
 import urllib.parse
-import urllib.request
-
-import mechanize
+import urllib.request 
 import requests
+
 from bs4 import BeautifulSoup
-from mechanize import Browser
 
 
 input_data = {}
