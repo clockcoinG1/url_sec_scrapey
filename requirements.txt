@@ -1,3 +1,15 @@
 bs4==0.0.1
 requests==2.22.0
 json==2.0.9
+argparse==1.2.1
+base64==0.1.1
+json==1.7.3
+os==1.0.0
+re==1.0.0
+socket==1.0.0
+sys==1.0.0
+time==1.0.0
+urllib==1.0.0
+mechanize==0.2.5
+requests==1.2.3
+BeautifulSoup==3.2.1

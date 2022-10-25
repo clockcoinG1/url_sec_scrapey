@@ -1,10 +1,11 @@
 ## README 
-# How to activate pyenv, install lxml, and activate env
-
-## Activate pyenv
-
+### DO THIS RIGHT HERE
 ```
 $ virtualenv --python=${which python3.10} .
+$ source bin/activate
+$ pip install -r requirements
+$ python script.py
+
 ```
 
 ## Install lxml
